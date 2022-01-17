@@ -1797,7 +1797,7 @@
   resolved "https://registry.yarnpkg.com/@magento/eslint-config/-/eslint-config-1.5.3.tgz#7a9e54386fc255a9df359176ddfa0ce1f4ba37df"
   integrity sha512-nCmdeIFbadK6gLvQ/g3OXXuK8JBrp0Hxt8CZD1uj+824X51jr6W7xRKGabmeNKXifnYXFk0wfu+eeMq86PA3jA==
 
-"@magento/pagebuilder@~7.0.1":
+"@magento/pagebuilder@^7.0.1":
   version "7.0.1"
   resolved "https://registry.yarnpkg.com/@magento/pagebuilder/-/pagebuilder-7.0.1.tgz#9e5b617c407388667e18e5d564f7dd6959ab9be4"
   integrity sha512-CpQqr5Fh0P6rtw1vkHVLjYIDykqPZ8DzZQkWNottfnjWkCeashD0kJURO+TiUkPIITEhQAn5S84KVmANf59Etw==

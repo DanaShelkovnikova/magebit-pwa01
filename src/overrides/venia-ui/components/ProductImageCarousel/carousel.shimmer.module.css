@@ -1,0 +1,7 @@
+.thumbnailRoot {
+    composes: root from './thumbnail.module.scss';
+}
+
+.thumbnailImage {
+    composes: image from './thumbnail.module.scss';
+}

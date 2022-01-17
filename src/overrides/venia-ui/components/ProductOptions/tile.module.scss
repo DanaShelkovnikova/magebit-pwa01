@@ -1,0 +1,19 @@
+.root {
+    composes: root from '~@magento/venia-ui/lib/components/clickable.module.css';
+    border: 1px solid $learning-gray;
+    height: 48px;
+    width: 48px;
+    padding: 0 0.5rem;
+}
+
+.root_selected {
+    composes: root;
+    background-color: rgb(var(--venia-global-color-text));
+    color: white;
+}
+.root_focused {
+    composes: root;
+}
+.root_selected_focused {
+    composes: root_selected;
+}
